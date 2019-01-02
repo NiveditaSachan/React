@@ -1,0 +1,26 @@
+.User{
+    margin: 5px auto;
+    padding: 8px 8px ;
+    font-size: 80%;
+    text-align: center;
+    justify-content: center;
+    display: inline;
+
+}
+
+.UserOutput{
+    font-size: 100%;
+    text-align: center;
+
+}
+
+.button1{
+    background: green;
+    color: white;
+    display: inline-block;
+    padding: 16px;
+    textallign: centre;
+    margin: 16px;
+    border: 1px solid black
+}
+
